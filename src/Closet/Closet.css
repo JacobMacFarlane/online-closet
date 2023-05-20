@@ -1,0 +1,11 @@
+
+.tops-img, .bottoms-img {
+    width: 100px;
+}
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+.flex-inLine {
+    display: flex;
+}

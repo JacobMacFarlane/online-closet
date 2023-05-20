@@ -1,0 +1,10 @@
+.current-top {
+    width: 100px;
+}
+.current-bottom {
+    width: 100px;
+}
+.current-outfit {
+    display: flex;
+    flex-direction:column ;
+}
